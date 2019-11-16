@@ -1,5 +1,7 @@
 {
   "name": "Happy",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
